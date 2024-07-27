@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 
 import java.time.LocalDate;
 
-@Entity(name = "tb_card")
+@Entity(name = "tb_emprestimo")
 public class Emprestimo {
 
     @Id
